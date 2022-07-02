@@ -25,13 +25,12 @@ hr{
 	margin: 20px;
 	background-color: #eaeaea;
 }
-/* Add a black background color to the top navigation */
+
 .topnav {
     background-color: lightgray;
     overflow: hidden;
 }
-  
-/* Style the links inside the navigation bar */
+
 .topnav a {
     display: inline-block;
     color: black;
@@ -40,14 +39,12 @@ hr{
     text-decoration: none;
     font-size: 20px;
 }
-  
-/* Change the color of links on hover */
+
 .topnav a:hover {
     background-color: #fc3e3e;
     color: #f2f2f2;
 }
-  
-/* Add a color to the active/current link */
+
 .topnav a.active {
     background-color: #ff0000;
     color: white;

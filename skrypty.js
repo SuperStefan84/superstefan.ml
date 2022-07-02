@@ -12,7 +12,6 @@ var setTheme = localStorage.getItem('theme')
 			localStorage.setItem('theme', sheet)
 		}
 
-
 		/*
 		var setTheme = localStorage.getItem('theme')
 		if (setTheme == null){
